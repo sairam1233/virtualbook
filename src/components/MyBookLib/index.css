@@ -1,0 +1,14 @@
+.bg1{
+    height: 100vh;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    gap: 20px;
+}
+.head{
+    font-size: 23px;
+    padding-bottom: 30px;
+}
